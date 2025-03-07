@@ -4,26 +4,38 @@ h1 {
     font-weight: bold;
     color: Khaki;
     text-align: center;
-    margin:auto;
+    margin: auto;
 }
-h2 #brushes {
+
+#brushes {
   font-family: Helvetica;
   font-size: 32px;
-  font-weight: bold:
-  color:white;
-  background-color: mediumsspinggreen;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
 }
-h3 #frames {
+
+#frames {
   font-family: Helvetica;
   font-size: 32px;
-  font-weight: bold:
-  color:white;
+  font-weight: bold;
+  color: white;
   background-color: lightcoral;
 }
-h4 #paint {
+
+#paint {
   font-family: Helvetica;
   font-size: 32px;
-  font-weight: bold:
-  color:white;
+  font-weight: bold;
+  color: white;
   background-color: skyblue;
+}
+
+.price {
+  font-weight: bold;
+  color: blue;
+}
+
+.item {
+  margin-bottom: 20px;
 }
